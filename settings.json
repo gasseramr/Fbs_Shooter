@@ -1,0 +1,12 @@
+{
+  "mouse_sensitivity": 0.1,
+  "audio_volume": 0.7,
+  "fullscreen": false,
+  "fov": 60,
+  "crosshair_color": [
+    255,
+    255,
+    255
+  ],
+  "crosshair_size": 10
+}
